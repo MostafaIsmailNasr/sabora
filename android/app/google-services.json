@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804247137187",
+    "project_id": "sabora-26249",
+    "storage_bucket": "sabora-26249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804247137187:android:fcd53228eaff01a4490816",
+        "android_client_info": {
+          "package_name": "com.sabora.app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804247137187-h17nkqakmuc3psois3uce1p3qutv4ar4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKmCPVODBhDqgMGypOOYWIQkYJAqkobac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804247137187-h17nkqakmuc3psois3uce1p3qutv4ar4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
